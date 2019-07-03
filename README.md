@@ -4,6 +4,6 @@ My project is a camera controlled by a raspberry pi that is attached to a hat. T
 
 With a normal camera you press the button before something happens, but with this camera it's the opposite !
 
-More infos : http://johanlink.atwebpages.com/pages/hat.html
+More pictures : http://johanlink.atwebpages.com/pages/hat.html
 My website : http://johanlink.atwebpages.com
 
